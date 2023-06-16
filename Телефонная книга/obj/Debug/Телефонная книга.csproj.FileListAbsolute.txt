@@ -1,0 +1,10 @@
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\bin\Debug\Телефонная книга.exe.config
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\bin\Debug\Телефонная книга.exe
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\bin\Debug\Телефонная книга.pdb
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\obj\Debug\Телефонная книга.csproj.AssemblyReference.cache
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\obj\Debug\Телефонная_книга.MainForm.resources
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\obj\Debug\Телефонная_книга.Properties.Resources.resources
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\obj\Debug\Телефонная книга.csproj.GenerateResource.cache
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\obj\Debug\Телефонная книга.csproj.CoreCompileInputs.cache
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\obj\Debug\Телефонная книга.exe
+C:\Users\305-9\Desktop\Колупаев\Телефонная книга\obj\Debug\Телефонная книга.pdb
